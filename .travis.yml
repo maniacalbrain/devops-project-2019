@@ -1,4 +1,7 @@
 language: java
 
+notifications:
+  slack: maniacalinc:b9G0mzSAhoeuXnD5puQvIVQ1
+
 after_success:
     - bash <(curl -s https://codecov.io/bash)
