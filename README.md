@@ -4,5 +4,5 @@
 
 Devops Project 2019
 ==============
-heroku
+travis-ci heroku
 maven webapp sample - bmi calculator
