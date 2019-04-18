@@ -2,7 +2,7 @@ language: java
 deploy:
     provider: heroku
     api_key: d0ecf430-5a48-4edd-8c90-5f8055083f23
-    app: devops-project
+    app: devops-project-2019
     on: maniacalbrain/devops-project-2019
 notifications:
   slack: maniacalinc:b9G0mzSAhoeuXnD5puQvIVQ1
